@@ -8,10 +8,10 @@ npm install -g swift-cli
 
 Available Commands
 ```
-init [name] -t=<variant_name>       Initialize a MERN project (Default variant: swift-boilerplate).
-list                                List MERN variants
-search [term]                       Search for a MERN variant
-info [term]                         View details of a MERN variant
+init [name] -t=<variant_name>       Initialize a SWIFT project (Default variant: swift-boilerplate).
+list                                List SWIFT variants
+search [term]                       Search for a SWIFT variant
+info [term]                         View details of a SWIFT variant
 ```
 
 Create a new app with default `swift-starter`
@@ -35,4 +35,4 @@ swift --help // Get help and check usage
 
 ## License
 
-MERN is released under the [MIT License](http://www.opensource.org/licenses/MIT).
+SWIFT CLI is released under the [MIT License](http://www.opensource.org/licenses/MIT).
