@@ -1,0 +1,10 @@
+[
+  {
+    "name": "swift-boilerplate",
+    "description": "Default Swift Boilerplate",
+    "author": "John P",
+    "git": "https://github.com/swift-boilerplate/swift-boilerplate.git",
+    "git-branch": "master",
+    "issues": "https://github.com/swift-boilerplate/swift-boilerplate/issues"
+  }
+]
