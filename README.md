@@ -23,7 +23,6 @@ Install Dependencies
 ```
 cd my_app && make boostrap
 ```
-```
 
 ## Help and Version
 
