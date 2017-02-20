@@ -1,6 +1,6 @@
 {
   "name": "swift-cli",
-  "version": "1.1.1",
+  "version": "1.1.3",
   "description": "A cli for generating SWIFT boilerplate",
   "main": "index.js",
   "watch": {
